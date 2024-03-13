@@ -1,0 +1,22 @@
+
+# Игнорировать следующие файлы в каталоге  cpp-test-repo:
+
+Bluefish.color-profile
+cpp-test-repo.bfproject
+README.md
+
+
+# Игнорировать все файлы с расширением  .doc  в каталоге  cpp-test-repo
+
+*.doc
+
+
+# Игнорировать все файлы с расширением  .o  в каталоге  cpp-test-repo:
+
+*.o
+
+
+# Игнорировать все резервные копии исходных файлов в каталоге  cpp-test-repo:
+
+*.cpp~
+

@@ -3,7 +3,6 @@
 
 Bluefish.color-profile
 cpp-test-repo.bfproject
-README.md
 
 
 # Игнорировать все файлы с расширением  .doc  в каталоге  cpp-test-repo
@@ -16,7 +15,7 @@ README.md
 *.o
 
 
-# Игнорировать все резервные копии исходных файлов в каталоге  cpp-test-repo:
+# Игнорировать резервные копии исходных файлов в каталоге  cpp-test-repo:
 
-*.cpp~
+main.cpp~
 
